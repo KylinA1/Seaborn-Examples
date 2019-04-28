@@ -1,6 +1,8 @@
 # Seaborn-Examples
 ## Tutorial
 - [Basic Chart](./BasicChart.ipynb)
+  - line, bar/multi-bar, scatter, distribution charts
+  
 - [Color Palette](./ColorPalette.ipynb)
 
 ## References
